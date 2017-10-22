@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeathNote", "DeathNote.csproj", "{2C5233D4-25E9-B512-1C66-C52B9D851CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeathNote.Editor", "DeathNote.Editor.csproj", "{631B2D02-6720-44FC-15B1-4AA423C0AE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5233D4-25E9-B512-1C66-C52B9D851CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5233D4-25E9-B512-1C66-C52B9D851CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5233D4-25E9-B512-1C66-C52B9D851CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5233D4-25E9-B512-1C66-C52B9D851CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631B2D02-6720-44FC-15B1-4AA423C0AE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631B2D02-6720-44FC-15B1-4AA423C0AE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631B2D02-6720-44FC-15B1-4AA423C0AE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631B2D02-6720-44FC-15B1-4AA423C0AE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
